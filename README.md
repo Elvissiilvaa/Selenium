@@ -1,4 +1,4 @@
-# SeleniumTeste
+# Selenium
 
 Teste automatizado em Java, feito através do curso ( Processo de automação de testes com Selenium ) Ministrado por Hugo Peres CEO da Inove Teste
 
