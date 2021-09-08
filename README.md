@@ -1,6 +1,6 @@
 # SeleniumTeste
 
-Teste automatizado, feito através do curso ( Processo de automação de testes com Selenium ) Ministrado por Hugo Peres CEO da Inove Teste
+Teste automatizado em Java, feito através do curso ( Processo de automação de testes com Selenium ) Ministrado por Hugo Peres CEO da Inove Teste
 
 Nesse local está sendo feito 3 testes. 
 
